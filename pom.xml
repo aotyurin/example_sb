@@ -35,7 +35,7 @@
         <!-- spring, spring boot -->
         <spring.version>5.2.0.RELEASE</spring.version>
         <spring-boot.version>2.1.9.RELEASE</spring-boot.version>
-        <jackson.version>2.10.0</jackson.version>
+        <jackson.version>2.12.7.1</jackson.version>
         <!-- other -->
 
         <springfox-swagger.version>2.9.2</springfox-swagger.version>
